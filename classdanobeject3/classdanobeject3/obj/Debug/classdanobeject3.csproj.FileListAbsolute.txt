@@ -1,0 +1,6 @@
+D:\Pemrograman\classdanobeject3\classdanobeject3\bin\Debug\classdanobeject3.dll
+D:\Pemrograman\classdanobeject3\classdanobeject3\bin\Debug\classdanobeject3.pdb
+D:\Pemrograman\classdanobeject3\classdanobeject3\obj\Debug\classdanobeject3.csproj.AssemblyReference.cache
+D:\Pemrograman\classdanobeject3\classdanobeject3\obj\Debug\classdanobeject3.csproj.CoreCompileInputs.cache
+D:\Pemrograman\classdanobeject3\classdanobeject3\obj\Debug\classdanobeject3.dll
+D:\Pemrograman\classdanobeject3\classdanobeject3\obj\Debug\classdanobeject3.pdb
